@@ -1,0 +1,29 @@
+.nadpis{
+    background-color: lightskyblue;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    
+}
+h1{
+    font-size: 30;
+    color: white;
+    padding-top: 60px;
+}
+.zelena{
+background-color:green ;
+height: 200px;
+
+}
+.orange{
+background-color: orange;
+height: 200px;
+}
+h2{
+    COLOR: white;
+    padding-top: 50px;
+}
+.fit{
+    width: fit-content;
+}
+
